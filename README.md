@@ -5,7 +5,7 @@
 
 <b>About me</b>
 <br>
-I'm a full-time Aprentice IT Specialist in Systemintegrations from Germany, currently focused on little Python Projects. I began experimenting
+I'm a full-time IT Specialist trainee in Systemintegrations from Germany, currently focused on little Python Projects. I began experimenting
 with code at the age of 15 and have been on and off about it ever since.
 
 
